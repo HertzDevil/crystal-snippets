@@ -1,0 +1,13 @@
+name: win32_dacl
+version: 0.1.0
+
+authors:
+  - Quinton Miller <nicetas.c@gmail.com>
+
+targets:
+  win32_dacl:
+    main: win32_dacl.cr
+
+crystal: '>= 1.14.0'
+
+license: 0BSD
