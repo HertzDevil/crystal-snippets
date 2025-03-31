@@ -1,0 +1,13 @@
+name: llvm_minimal
+version: 0.1.0
+
+authors:
+  - Quinton Miller <nicetas.c@gmail.com>
+
+targets:
+  llvm_minimal:
+    main: llvm_minimal.cr
+
+crystal: '>= 1.16.0'
+
+license: 0BSD
